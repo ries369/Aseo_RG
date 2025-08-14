@@ -1,0 +1,272 @@
+[
+  [
+    "ESC001",
+    "Escoba industrial cerdas duras",
+    "Escoba de cerdas plásticas resistentes, ideal para barrer superficies amplias y rugosas en entornos industriales y comerciales.",
+    "BrilloMax",
+    "Utensilios de limpieza",
+    23400,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "TRA002",
+    "Trapero de microfibra",
+    "Absorbe hasta 5 veces su peso en agua, ideal para limpieza profunda de pisos sin dejar pelusa.",
+    "LimpiaPlus",
+    "Utensilios de limpieza",
+    19500,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "DET003",
+    "Detergente en polvo institucional (20 kg)",
+    "Fórmula de alto rendimiento para lavado de ropa y limpieza general, elimina grasa y manchas difíciles.",
+    "CleanPro",
+    "Químicos de limpieza",
+    101400,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "LIM004",
+    "Limpiavidrios líquido 3.8 L",
+    "Limpia y da brillo sin dejar residuos, recomendado para vidrios, espejos y superficies acrílicas.",
+    "CristalNet",
+    "Químicos de limpieza",
+    28600,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "CLO005",
+    "Cloro industrial (5 L)",
+    "Desinfectante de alta concentración, elimina el 99.9% de bacterias y virus en superficies y pisos.",
+    "BlancoxPro",
+    "Químicos de limpieza",
+    15600,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "JAB006",
+    "Jabón líquido antibacterial (galón)",
+    "Fórmula suave para la piel, elimina bacterias y protege contra infecciones.",
+    "ManosLimpias",
+    "Químicos de limpieza",
+    26000,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "DES007",
+    "Desinfectante concentrado (5 L)",
+    "Apto para dilución, desinfecta y aromatiza grandes áreas, ideal para hospitales, colegios y oficinas.",
+    "GermiStop",
+    "Químicos de limpieza",
+    32500,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "ARO008",
+    "Aromatizante ambiental en aerosol",
+    "Fragancia duradera para ambientes frescos y agradables en oficinas, hogares o espacios comerciales.",
+    "AromaFresh",
+    "Ambientadores",
+    18200,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "ESC009",
+    "Escurridor metálico para pisos industrial",
+    "Estructura resistente, facilita el secado rápido de pisos reduciendo el esfuerzo.",
+    "EcoBags",
+    "Utensilios de limpieza",
+    58500,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "GUA010",
+    "Guantes de nitrilo industriales",
+    "Resistencia superior a químicos y perforaciones, ideales para trabajo pesado y manipulación de sustancias.",
+    "ProSafe",
+    "Elementos de protección",
+    20800,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "CEP011",
+    "Cepillo para pisos con mango de madera",
+    "Cepillo robusto para remover suciedad adherida en pisos rugosos e industriales.",
+    "DuraBristle",
+    "Utensilios de limpieza",
+    24700,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "CER012",
+    "Cera líquida para pisos (galón)",
+    "Proporciona brillo y protección duradera a pisos de madera, cerámica y vinilo.",
+    "BrilloPlus",
+    "Químicos de limpieza",
+    39000,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "BAL013",
+    "Balde industrial con exprimidor 36 L",
+    "Facilita la limpieza de grandes áreas con su exprimidor integrado y ruedas resistentes.",
+    "LimpiaPlus",
+    "Utensilios de limpieza",
+    156000,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "MOP014",
+    "Mop seco de microfibra 60 cm",
+    "Diseñado para atrapar polvo y suciedad fina en grandes superficies.",
+    "LimpiaPlus",
+    "Utensilios de limpieza",
+    32500,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "MOP015",
+    "Mop húmedo de algodón 450 gr",
+    "Absorción eficiente, recomendado para limpieza con agua y desinfectantes.",
+    "LimpiaPlus",
+    "Utensilios de limpieza",
+    23400,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "ESP016",
+    "Esponja abrasiva industrial",
+    "Limpieza efectiva de superficies difíciles sin dañar el material.",
+    "BrilloMax",
+    "Utensilios de limpieza",
+    5850,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "FIB017",
+    "Fibra de limpieza verde industrial",
+    "Ideal para eliminar grasa y suciedad incrustada en utensilios y superficies duras.",
+    "BrilloMax",
+    "Utensilios de limpieza",
+    4940,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "PAÑ018",
+    "Paño de microfibra multiusos",
+    "Multiuso, atrapa polvo y humedad sin rayar, reutilizable y lavable.",
+    "LimpiaPlus",
+    "Utensilios de limpieza",
+    7800,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "BAS019",
+    "Caneca plástica con tapa 50 L",
+    "Contenedor resistente, ideal para manejo higiénico de residuos.",
+    "EcoBags",
+    "Utensilios de limpieza",
+    97500,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "BAS020",
+    "Caneca metálica para residuos 50 L",
+    "Alta durabilidad, recomendado para espacios públicos y comerciales.",
+    "EcoBags",
+    "Utensilios de limpieza",
+    143000,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "ASP021",
+    "Aspiradora industrial 30 L",
+    "Potente motor para limpieza de polvo y líquidos, uso continuo en áreas grandes.",
+    "ProSafe",
+    "Equipos de limpieza",
+    975000,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "HID022",
+    "Hidrolavadora eléctrica 1500 PSI",
+    "Limpieza a presión para superficies exteriores, vehículos y maquinaria.",
+    "ProSafe",
+    "Equipos de limpieza",
+    1235000,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "LIM023",
+    "Limpiador desengrasante concentrado (galón)",
+    "Disuelve grasa y aceite, ideal para cocinas industriales y talleres.",
+    "CleanPro",
+    "Químicos de limpieza",
+    36400,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "LIM024",
+    "Limpiador multiusos (galón)",
+    "Uso versátil para todo tipo de superficies lavables.",
+    "CleanPro",
+    "Químicos de limpieza",
+    27300,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "LIM025",
+    "Limpiador ácido para baños (galón)",
+    "Remueve sarro y manchas de óxido, ideal para sanitarios y griferías.",
+    "CleanPro",
+    "Químicos de limpieza",
+    33800,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "DES026",
+    "Desinfectante en aerosol para superficies",
+    "Desinfección rápida sin enjuague, perfecto para oficinas y áreas públicas.",
+    "GermiStop",
+    "Químicos de limpieza",
+    16900,
+    "Suministros y Químicos Andinos Ltda."
+  ],
+  [
+    "ARO027",
+    "Aromatizante líquido para trapeado (galón)",
+    "Deja fragancia fresca al trapear pisos en hogares y oficinas.",
+    "AromaFresh",
+    "Ambientadores",
+    24700,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "ARO028",
+    "Dispensador automático para ambientador",
+    "Funciona con recargas, ideal para mantener aroma constante en espacios cerrados.",
+    "AromaFresh",
+    "Ambientadores",
+    75400,
+    "Comercializadora Global Clean S.A.S."
+  ],
+  [
+    "PRO029",
+    "Protector facial industrial",
+    "Protección integral contra salpicaduras y partículas.",
+    "ProSafe",
+    "Elementos de protección",
+    28600,
+    "Proveedora Industrial del Tolima S.A.S."
+  ],
+  [
+    "BOT030",
+    "Botas de caucho industriales",
+    "Impermeables y resistentes a químicos, ideales para trabajos en áreas húmedas.",
+    "ProSafe",
+    "Elementos de protección",
+    49400,
+    "Proveedora Industrial del Tolima S.A.S."
+  ]
+]
